@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Capstone",
+"dataUrl": "BFIG_Online.data.unityweb",
+"wasmCodeUrl": "BFIG_Online.wasm.code.unityweb",
+"wasmFrameworkUrl": "BFIG_Online.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
